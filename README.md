@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding, Weeb culture amd Music
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me throught my mail (sankalpvish.1@gmail.com)
+- 📫 How to reach me ...
 - ⚡ Fun fact: Light Yagami was Innocent
 
 <!---
