@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SankalpGG
 - 👀 I’m interested in Coding, Weeb culture amd Music
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and MySQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - ⚡ Fun fact: Light Yagami was Innocent
