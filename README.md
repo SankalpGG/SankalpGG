@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SankalpGG
-- 👀 I’m interested in Coding, Weeb culture, Music and Photography
+- 👀 I’m interested in Coding, Formula 1, Music and Photography
 - 🌱 I’m currently learning Python and MySQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
