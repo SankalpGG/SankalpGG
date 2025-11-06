@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SankalpGG
-- 👀 I’m interested in Coding, Formula 1, Music and Photography
+- 👀 I’m interested in Coding, Cyber Security, Formula 1, Music and Photography
 - 🌱 I’m currently learning Python and MySQL
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : Email me at sankalp.gg3@gmail.com
 - ⚡ Fun fact: i code for fun
 
 <!---
