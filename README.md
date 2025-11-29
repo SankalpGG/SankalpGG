@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @SankalpGG
-- 👀 I’m interested in Coding, Cyber Security, Formula 1, Music and Photography
-- 🌱 I’m currently learning Python and MySQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : Email me at sankalp.gg3@gmail.com
-- ⚡ Fun fact: i code for fun
+👋 Hey, I’m Sankalp
 
-<!---
-SankalpGG/SankalpGG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a developer exploring the worlds of programming, cyber security, and tech-driven creativity. I enjoy building small projects, experimenting with new tools, and documenting my learning journey as I grow.
+
+-🔭 Interests: Coding, Cyber Security, Formula 1, Music, Photography, CODM
+-🌱 Currently learning: Python, MySQL, and foundational concepts in software & security
+-📸 Hobbies: Photography and reading fun tech articles
+-🎮 Side quests: Occasional CODM matches when the brain needs a reboot
+-☕ Fuel: Powered by code, curiosity, and slightly unhealthy amounts of caffeine
+-🤝 Open to: Beginner-friendly collaboration, small utilities, learning-focused projects
+-📫 Reach me: sankalp.gg3@gmail.com
+
+-⚡ Fun fact: I started coding just for fun and never stopped
