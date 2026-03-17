@@ -14,6 +14,6 @@ I’m a developer exploring the worlds of programming, cyber security, and tech-
 
 -🤝 Open to: Beginner-friendly collaboration, small utilities, learning-focused projects
 
--📫 Reach me: sankalp.gg3@gmail.com
+-📫 Reach me: sankalp.wem@gmail.com
 
 -⚡ Fun fact: I started coding just for fun and never stopped
